@@ -1,7 +1,9 @@
 # React + Vite
+Command: npm run build
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.<br/>
 Live Preview: https://superlative-fox-dd7d5f.netlify.app
+<br/>
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
